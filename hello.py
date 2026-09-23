@@ -1,5 +1,5 @@
 def greet():
-	print("Namaste Section B")
-	print("Sec - B students are very good")
-	print("Parikshit doesn't asks doubt in lectures")
+	print("Good Afternoon Section B")
+	print("Sec - B students are very good mostly")
+	print("Parikshit asks doubt in lectures")
 greet()
